@@ -79,3 +79,13 @@
 <p>
     In 2025, <strong>BrewBuddy™ finally launched</strong> — delivering café‑level coffee without the café trip.
 </p>
+
+<h2>Brand Colors</h2>
+<ul>
+<li> Dark: #333333</li>
+<li> Light: #E9EBEF</li>
+<li> Accent: #53C3B8</li>
+</ul>
+
+<h2>Brand Typography</h2>
+<p>Outfit: <strong>on Google Fonts</strong></p>
