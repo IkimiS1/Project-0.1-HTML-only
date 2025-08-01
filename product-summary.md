@@ -7,8 +7,6 @@
     a perfect cup every time.
 </p>
 
-<hr>
-
 <h2>Features with the BrewBuddy™ App</h2>
 <ul>
     <li><strong>Brew remotely</strong> from anywhere.</li>
@@ -22,15 +20,11 @@
     A <strong>self‑cleaning system</strong> means it’s always ready for your next brew.
 </p>
 
-<hr>
-
 <h2>Launch History</h2>
 <p>
     After four years in production and testing, <strong>BrewBuddy™ officially launched in 2025</strong>,
     bringing personalized coffee perfection into homes worldwide.
 </p>
-
-<hr>
 
 <h2>Company Information</h2>
 <ul>
@@ -39,8 +33,6 @@
     <li><strong>Headquarters:</strong> Coffeeville, NY</li>
     <li><strong>Mission Statement:</strong> <em>To transform everyday coffee into a luxury experience for everyone.</em></li>
 </ul>
-
-<hr>
 
 <h2>About Luxe Inc.</h2>
 <p>
@@ -54,7 +46,6 @@
     and the inconsistent results of most home brewing machines.
 </p>
 
-<hr>
 
 <h2>The Inspiration / Story Behind BrewBuddy™</h2>
 <p>
